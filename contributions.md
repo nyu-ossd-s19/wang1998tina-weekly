@@ -25,3 +25,4 @@ Replace the first row with your contribution.
 |   3  |  [link](https://github.com/nyu-ossd-s19/mood/pull/13)   |  copyright   |   Discussion on copyright law, "fair use", and added GIPHY logo to app   |
 | 3| [link](https://github.com/nyu-ossd-s19/Joannify/pull/10) | feature added| In another group's project, created functionality to allow multiple pictures of Joanna to be rendered at random| 
 | 4| [link](https://github.com/nyu-ossd-s19/notepad-team-3/pull/9) | feature added| In another group's project, allowed notepad text to be selectable for copy/paste| 
+| 9| [link](https://github.com/freeCodeCamp/freeCodeCamp/issues/35678) | issue opened| In the freeCodeCamp guide repo, I noticed some broken links and submitted an issue.| 
