@@ -27,4 +27,5 @@ Replace the first row with your contribution.
 | 4| [link](https://github.com/nyu-ossd-s19/notepad-team-3/pull/9) | feature added| In another group's project, allowed notepad text to be selectable for copy/paste| 
 | 9| [link](https://github.com/freeCodeCamp/freeCodeCamp/issues/35678) | issue opened| In the freeCodeCamp guide repo, I noticed some broken links and submitted an issue.| 
 | 10| [link](https://github.com/freeCodeCamp/freeCodeCamp/pull/35771) | PR| Submitted a fix and PR for the above issue.| 
-| 12| [link](https://en.wikipedia.org/w/index.php?title=Sexual_harassment&diff=prev&oldid=893021857) | Wikipedia edit| Created a section on the Sexual Harassment page about China, as that did not previously exist.| 
+| 12| [link](https://en.wikipedia.org/w/index.php?title=Sexual_harassment&diff=prev&oldid=893021857) | Wikipedia contribution| Created a section on the Sexual Harassment page about China, as that did not previously exist.| 
+| 12| [link](https://en.wikipedia.org/w/index.php?title=Belmont,_Massachusetts&diff=prev&oldid=893028613) | Wikipedia contribution| Made several changes to the Wikipedia article on my hometown, Belmont MA. Added a citation and improved a sentence, as well as provided more information on a toxic factory located 300ft away from my old high school (which people in my town seem to not know about).| 
