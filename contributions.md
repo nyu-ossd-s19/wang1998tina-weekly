@@ -29,3 +29,6 @@ Replace the first row with your contribution.
 | 10| [link](https://github.com/freeCodeCamp/freeCodeCamp/pull/35771) | PR| Submitted a fix and PR for the above issue.| 
 | 12| [link](https://en.wikipedia.org/w/index.php?title=Sexual_harassment&diff=prev&oldid=893021857) | Wikipedia contribution| Created a section on the Sexual Harassment page about China, as that did not previously exist.| 
 | 12| [link](https://en.wikipedia.org/w/index.php?title=Belmont,_Massachusetts&diff=prev&oldid=893028613) | Wikipedia contribution| Made several changes to the Wikipedia article on my hometown, Belmont MA. Added a citation and improved a sentence, as well as provided more information on a toxic factory located 300ft away from my old high school (which people in my town seem to not know about).| 
+| 15| [link](https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Feminism_in_China&action=history) | Wikipedia contribution| Edited WikiProject page on Chinese feminism to reflect changes I have made previously - links to entire history as I couldn't find a proper link. | 
+| 15| [link](https://en.wikipedia.org/w/index.php?title=List_of_women%27s_rights_activists&oldid=896431312) | Wikipedia contribution| Added a list of prominent Chinese female activists to "List of Women's Rights activists" page. | 
+
